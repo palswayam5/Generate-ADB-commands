@@ -1,7 +1,5 @@
 # Generate-ADB-commands
 
-# Generate ADB Commands
-
 **Automate Android interactions using natural language prompts with LLM-powered ADB command generation.**
 
 ## 🚀 Overview
